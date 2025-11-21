@@ -15,12 +15,14 @@
 
 
 # Tabulation
-
+![WhatsApp Image 2025-11-16 at 14 44 59_e4d59d6d](https://github.com/user-attachments/assets/a4bb72d9-a3ba-40ef-8bf1-e88f1e6cccbe)
 
 # Graph
 
+![WhatsApp Image 2025-11-16 at 14 47 47_e423026a](https://github.com/user-attachments/assets/1bee0153-046e-41f0-b1cf-e0a851a10056)
 
 # Sample images 
+<img width="699" height="451" alt="image" src="https://github.com/user-attachments/assets/9c908b98-8f61-45d6-b432-b5864e1f6973" />
 
 
 ### **Result**
@@ -28,11 +30,11 @@
 Thus the current series  feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | =90 Hz | =110 Hz|
+| 2 | Upper cut-off frequency | =400 Hz | =109 Hz |
+| 3 | Bandwidth | \( BW = fh - fl = 30 Hz \) | \( BW = f'h - f'l = 10 KHz\) |
+| 4 | Mid-band Gain | \( A{v(mid)} = 18.31 dB \) | \( A'{v(mid)} = 18.31 dB \) |
+| 5 | Gain at half power point | 14.31 dB | 14.19 dB |
 
 ---
 
