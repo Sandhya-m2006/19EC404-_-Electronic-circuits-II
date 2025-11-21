@@ -14,11 +14,17 @@
 
 # Tabulation
 
+<img width="1173" height="993" alt="image" src="https://github.com/user-attachments/assets/654b3f5d-9197-4c0d-952d-de3f03bae29c" />
+
 
 # Graph
 
+<img width="1137" height="1600" alt="image" src="https://github.com/user-attachments/assets/7c2016f6-c747-4d12-9bfb-d0ff7e3c7916" />
 
-# Sample images 
+<img width="1062" height="1559" alt="image" src="https://github.com/user-attachments/assets/c0042e35-3e8e-40b3-91c6-cc3937738032" />
 
 
 # Result
+
+Thus, different clamper circuits are studied and theier output waveforms are plotted.
+
